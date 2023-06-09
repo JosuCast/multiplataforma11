@@ -1,0 +1,16 @@
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\bin\Debug\netstandard2.0\Semana11A2023.deps.json
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\bin\Debug\netstandard2.0\Semana11A2023.dll
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\bin\Debug\netstandard2.0\Semana11A2023.pdb
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.csproj.AssemblyReference.cache
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Views\Operacions.xaml.g.cs
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.AssemblyInfoInputs.cache
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.AssemblyInfo.cs
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.csproj.CoreCompileInputs.cache
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.dll
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\refint\Semana11A2023.dll
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\Semana11A2023.pdb
+D:\AMM_Laboratorio_11\Semana11A2023\Semana11A2023\obj\Debug\netstandard2.0\ref\Semana11A2023.dll

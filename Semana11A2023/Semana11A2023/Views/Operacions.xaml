@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Semana11A2023.Views.Operacions">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Valor A" Text="{Binding ValorA}"></Entry>
+            <Entry Placeholder="Valor B" Text="{Binding ValorB}"></Entry>
+            <Button Text="Sumar" Command="{Binding Sumar}"/>
+            <Label  FontSize="Large"
+                Text="{ Binding ResultadoSuma}"></Label>
+            <Button Text="Restar" Command="{Binding Restar}"/>
+            <Label  FontSize="Large"
+                Text="{Binding ResultadoResta}"></Label>
+            <Button Text="Multipicar" Command="{Binding Multiplicar}"/>
+            <Label  FontSize="Large"
+                Text="{Binding ResultadoMultiplicacion}"></Label>
+            <Button Text="Dividr" Command="{Binding Dividir}"/>
+            <Label  FontSize="Large"
+                Text="{Binding ResultadoDivision}"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
